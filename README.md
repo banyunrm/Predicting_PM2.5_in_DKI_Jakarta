@@ -20,15 +20,10 @@ Model ini menggunakan dataset kualitas udara DKI Jakarta periode 2010–2023, ya
 ├── best_model_rf.pkl
 
 ├── data_dummy_aqi_inference.csv
-
 ├── data_inference.ipynb
-
 ├── ispu_dki_all.csv
-
 ├── jakarta.jpeg
-
 ├── main.ipynb
-
 ├── README.md            
 
 <h3>📈 Output yang Diharapkan</h3>
