@@ -8,6 +8,7 @@
 Model ini menggunakan dataset kualitas udara DKI Jakarta periode 2010–2023, yang dikumpulkan dari 5 stasiun pemantauan resmi.</p>
 
 <h3>🧰 Teknologi yang Digunakan</h3>
+
 - Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
 
 - Jupyter Notebook / Google Colab
